@@ -1,7 +1,7 @@
 {
   "name": "react-star-rating",
   "version": "0.1.0",
-  "homepage": "http://justkayla.github.io/react-star-rating",
+  "homepage": "https://justkayla.github.io/react-star-rating",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
