@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-star-rating/static/css/main.5fcef4aa.css",
+    "main.js": "/react-star-rating/static/js/main.fc333bc0.js",
+    "static/js/787.710e44ed.chunk.js": "/react-star-rating/static/js/787.710e44ed.chunk.js",
+    "static/media/logo.svg": "/react-star-rating/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-star-rating/index.html",
+    "main.5fcef4aa.css.map": "/react-star-rating/static/css/main.5fcef4aa.css.map",
+    "main.fc333bc0.js.map": "/react-star-rating/static/js/main.fc333bc0.js.map",
+    "787.710e44ed.chunk.js.map": "/react-star-rating/static/js/787.710e44ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcef4aa.css",
+    "static/js/main.fc333bc0.js"
+  ]
+}
